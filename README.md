@@ -1,6 +1,6 @@
 # D3-Demo
 Short D3 Charting demo
-
+{::nomarkdown}
 <!DOCTYPE HTML>
 <html>
 
@@ -259,3 +259,4 @@ Short D3 Charting demo
 </body>
 
 </html>
+{:/}
